@@ -1,0 +1,6 @@
+{
+  "name": "لوحة تحكم يمن بلاس | Yemen Plus Dashboard",
+  "description": "لوحة تحكم متطورة وشاملة لإدارة محادثات واتساب، العملاء، الطلبات، الـ Leads، وتنبيهات التدخل البشري لمنصة يمن بلاس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
